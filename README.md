@@ -1,6 +1,6 @@
 👋 Hey there! I’m @Mibrahimishfaq
 
-👀 Interests: Cybersecurity, Web Development, and Mobile App Development
+👀 Interests: Cybersecurity, Web Development
 
 🌱 Currently Learning: Frontend Web Development (HTML, CSS, JavaScript)
 
